@@ -6,7 +6,7 @@
 2. Clone repositori ini ke folder di komputer Anda:
 
    ```bash
-   git clone https://github.com/username/sistem-sekolah.git
+   git clone vhttps://github.com/titlehere/API-Backend-Sistem-Sekolah-Dasar.git
    ```
 
 3. Buka folder proyek di VS Code, dan buka terminal. Kemudian jalankan `npm install` untuk mengunduh semua dependensi yang dibutuhkan.
